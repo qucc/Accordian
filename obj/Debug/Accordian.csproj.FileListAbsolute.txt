@@ -1,0 +1,11 @@
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\bin\Debug\Accordian.exe.config
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\bin\Debug\Accordian.exe
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\bin\Debug\Accordian.pdb
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\obj\Debug\Accordian.Properties.Resources.resources
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\obj\Debug\Accordian.csproj.GenerateResource.Cache
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\obj\Debug\Accordian.exe
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\obj\Debug\Accordian.pdb
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\obj\Debug\Accordian.Form1.resources
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\obj\Debug\Accordian.AccordianPanel.resources
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\obj\Debug\Accordian.csprojResolveAssemblyReference.cache
+C:\Users\qucc\documents\visual studio 2012\Projects\FileBrower\Accordian\obj\Debug\Accordian.AccordianHeader.resources
