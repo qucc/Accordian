@@ -1,4 +1,5 @@
 Accordian
 =========
 
-C# Accordian Dock
+C# Accordian winform 
+based on Dock property
